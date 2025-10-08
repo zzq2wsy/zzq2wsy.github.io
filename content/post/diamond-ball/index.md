@@ -19,7 +19,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 - **牢固工艺**：钻球采用微镶工艺，佩戴牢固不易脱落
 
 ## 细节展示
-![Image 1](detail-1.png) ![Image 2](detail-2.png)
+![侧面效果1](detail-1.png) ![侧面效果2](detail-2.png)
 
 
 > **定制提示**：此款式可更换主钻颜色，欢迎咨询。
