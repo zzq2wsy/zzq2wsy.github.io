@@ -18,6 +18,6 @@ date: 2025-07-29
 3. 确认满意后发货
 
 **联系方式**：
-- 小红书：[@诗诗的日记本](https://www.xiaohongshu.com/user/profile/5ec25d3a00000000010039b5)
+- 小红书：[@诗诗的日记本](https://www.xiaohongshu.com/user/profile/62519cb400000000100050bf)
 - 微信：PAKL18736925782
-- 邮箱：shishi@artnail.com
+- 邮箱：2557599608@qq.com

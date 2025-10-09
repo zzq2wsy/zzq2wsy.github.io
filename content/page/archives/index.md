@@ -1,8 +1,8 @@
 ---
-title: "Archives"
+title: "作品集"
 date: 2025-08-25
 layout: "archives"
-slug: "archives"
+slug: "gallery"
 menu:
     main:
         weight: 2
