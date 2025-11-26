@@ -3,7 +3,7 @@ title: "【ins轻奢】冰玉裸色细闪透钻穿戴甲"
 description: "透色打底搭配裸色底胶，细闪点缀，叠加透色堆钻，简约而不失优雅"
 slug: "light-luxury"
 date: 2025-11-26
-image: light-luxury.jpg
+image: ins-light-luxury.jpg
 categories: ["轻奢系列"]
 tags: ["轻奢", "优雅", "日常"]
 weight: 2
